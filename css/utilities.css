@@ -37,14 +37,13 @@
 /* Backgrounds & colored buttons */
 .bg-primary,
 .btn-primary {
-  background-color: var(--primary-color);
-  color: #fff;
+    background-color: var(--primary-color);
+    color: #fff;
 }
 
-.bg-secondary,
-.btn-secondary {
-  background-color: var(--secondary-color);
-  color: #fff;
+.btn-primary {
+    background-color: var(--primary-color);
+    color: #fff;
 }
 
 .text-center {
